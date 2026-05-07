@@ -2,7 +2,6 @@
 
 | Page | Image | File | Bytes | Dimensions |
 |---:|---:|---|---:|---|
-| 1 | 1 | `page-01-image-01.png` | 302605 | 1321x532 |
 | 1 | 2 | `page-01-image-02.png` | 121076 | 879x474 |
 | 1 | 3 | `page-01-image-03.jpg` | 87765 | 966x636 |
 | 2 | 1 | `page-02-image-01.png` | 86763 | 875x706 |
