@@ -1,0 +1,18 @@
+# Build outputs
+cuda_histogram
+openmp_histogram
+cudaoutput
+output
+*.o
+*.obj
+*.exe
+*.exp
+*.lib
+*.pdb
+*.ilk
+
+# Local and generated noise
+.DS_Store
+Thumbs.db
+__pycache__/
+*.pyc
