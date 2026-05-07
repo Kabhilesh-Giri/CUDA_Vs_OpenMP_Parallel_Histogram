@@ -18,7 +18,7 @@ The original analysis report is included here: [ParallelHistogramComputation_GPU
 
 ![GPU environment](assets/report-figures/page-01-image-02.png)
 
-## AI-Assisted Result Interpretation
+## Result Interpretation
 
 The performance pattern is clear: CUDA dominates once the problem is large enough to amortize GPU launch and transfer overhead. The OpenMP implementation is useful as a CPU baseline, but its runtime grows much faster as the array size increases.
 
